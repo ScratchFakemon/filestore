@@ -1,0 +1,1 @@
+This folder contains files related to issues with TurboWarp's DECtalk extension.
